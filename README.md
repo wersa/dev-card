@@ -2,4 +2,5 @@
 
 ## Description
 
-Static digital dev card. While creating this small project, I practiced applying the basic principles of the library.
+
+Static digital dev card. While creating this card, I practiced applying the basic principles of building UI with React.
